@@ -1,0 +1,5 @@
+name := "Enrichment"
+version := "0.1"
+scalaVersion := "2.13.4"
+libraryDependencies += "com.opencsv" % "opencsv" % "5.1"
+libraryDependencies +="org.apache.poi" % "poi-ooxml" % "4.1.2"
